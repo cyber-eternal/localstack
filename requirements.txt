@@ -48,7 +48,7 @@ moto-ext[all]>=2.0.3.23
 pre-commit==2.13.0             #extended-lib
 psutil>=5.4.8,<6.0.0
 pympler>=0.6
-pyopenssl==17.5.0
+pyopenssl==26.0.0
 pytest==6.2.4
 pytest-rerunfailures==10.0
 pyyaml>=5.1                    #basic-lib
